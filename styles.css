@@ -1,0 +1,19 @@
+.nav-section {
+  background-color: #e6e6e6;
+  cursor: pointer;
+}
+
+.nav-section:hover {
+  background-color: #c5c5c5;
+}
+
+.side-content {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 999;
+  background-color: #fff;
+  right: 0px;
+  margin-right: -100%;
+  border-top: dotted white 2px;
+}
